@@ -1,10 +1,11 @@
 #include <iostream>
 #include "solution.h"
+#include "solution2.h"
 int main() {
 
     std::vector<std::string> arr = {"eat", "tea", "tan", "ate", "nat", "bat"};
 
-    Solution s;
+    Solution2 s;
 
     std::vector<std::vector<std::string>> res;
 
